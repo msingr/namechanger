@@ -1,4 +1,4 @@
-#!usr/bin/bash
+#!/usr/bin/env python3
 #changes all occurences of 'ä' to 'ae', 'ö' to 'oe', 'ü' 'ue', 'ß' to 'ss' and space to '_' in filenames of files in the same folder as this script.
 #Ändert alle 'ä' zu 'ae', 'ö' zu 'oe', 'ü' zu 'ue', 'ß' zu 'ss' und Leerzeichen zu '_' in Dateinamen im Ordner, in dem sich das Skript befindet.
 
