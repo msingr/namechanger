@@ -1,2 +1,2 @@
 # namechanger
-Changes 'Umlaute' and some other characters for compatibility.
+Changes 'Umlaute' and some other mostly german characters for compatibility.
